@@ -35,6 +35,13 @@ main img{
     max-width: 50%;
 }
 
+p.caption{
+    font-size: 10px;
+    margin-top: 5px;
+    color: #c1c1c1;
+    font-style: italic;
+}
+
 main h2{
     font-family: Impact, Helvetica
 }
